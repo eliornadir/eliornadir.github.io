@@ -3,6 +3,19 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+If I think of something to write about myself, I will put it here.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Follow the commandments of Yahweh.
+
+> 1. Have no other gods before Yahweh
+> 2. Don't have idols
+> 3. Don't use Yah's name haphazardly or say that He did something when He didn't
+> 4. Keep the Sabbath
+> 5. Respect your mom and dad
+> 6. Don't murder
+> 7. Don't be an adulterer, fornicator, or anything like that
+> 8. Don't steal
+> 9. Don't lie, especially when you're lying about what someone else did
+> 10. Don't be really envious of what someone else has
+
+There are more than that and the Bible is a good place to find them.
