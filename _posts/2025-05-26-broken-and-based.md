@@ -7,6 +7,7 @@ tags:
   - Based
   - Encouragement
 last_modified_at: 2025-05-26 00:00:00 -0400
+excerpt: "A reminder to choose the hard path of integrity over the easy path of comfort."
 ---
 
 I was watching a [YouTube video](https://www.youtube.com/watch?v=2JNk_hmdU1Y) from [The Urban Rescue Ranch](https://www.youtube.com/c/TheUrbanRescueRanch) and he said something that really resonated with me:

@@ -10,6 +10,7 @@ tags:
   - Normal Mapping
   - Sprites
 last_modified_at: 2025-05-25T22:14:00-05:00
+excerpt: "A guide to creating a 2D sprite in a 3D environment in Godot that supports normal textures."
 ---
 This guide will walk you through creating a 2D sprite in a 3D environment in Godot that supports [normal textures](https://en.wikipedia.org/wiki/Normal_mapping).
 
