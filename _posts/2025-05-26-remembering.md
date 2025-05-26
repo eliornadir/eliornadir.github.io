@@ -11,8 +11,6 @@ last_modified_at: 2025-05-26 00:00:00 -0400
 excerpt: "A poem reflecting on the pain of loss and the hope for healing through faith."
 ---
 
-<div align="center">
-
 My heart in pain  
 My joy unseen  
 I pray for answers  
@@ -37,5 +35,3 @@ Release me from
 Remembering  
 All that she is  
 And that I've been  
-
-</div>

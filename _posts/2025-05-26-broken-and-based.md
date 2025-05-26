@@ -16,7 +16,9 @@ I was watching a [YouTube video](https://www.youtube.com/watch?v=2JNk_hmdU1Y) fr
 
 I wanted to remember this every day, so I made a wallpaper to have on my phone:
 
-[![](/assets/images/broken_and-based.png){: width="500px"}](/assets/images/broken_and-based.png)
+<div align="center">
+[![](/assets/images/broken_and_based.png){: width="500px"}](/assets/images/broken_and_based.png)
+</div>
 
 I pray that if you are reading this, you won't choose the easy route. We're all presented with difficult choices, but often the right choice is the hard one. Face the difficulty.
 
