@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 ---
 
 If I think of something to write about myself, I will put it here.
