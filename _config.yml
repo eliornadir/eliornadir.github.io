@@ -26,6 +26,7 @@ search: true
 markdown: kramdown
 kramdown:
   hard_wrap: true
+  parse_block_html: true
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
