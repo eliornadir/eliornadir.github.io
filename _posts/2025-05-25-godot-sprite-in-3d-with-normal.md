@@ -108,10 +108,10 @@ public partial class SpriteCollection : Node {
     public CompressedTexture2D[] AlbedoTextures { get; set; } = [];
 
     [Export]
-    public CompressedTexture2D[] SpriteNormalTextures { get; set; } = [];
+    public CompressedTexture2D[] NormalTextures { get; set; } = [];
 
     [Export]
-    public CompressedTexture2D[] SpriteOcclusionTextures { get; set; } = [];
+    public CompressedTexture2D[] OcclusionTextures { get; set; } = [];
 
     [Export]
     public BaseMaterial3D.BillboardModeEnum Billboard { get; set; } = BaseMaterial3D.BillboardModeEnum.Enabled;
@@ -201,7 +201,7 @@ public partial class Player : CharacterBody3D {
 	private CompressedTexture2D[] _spriteOcclusionTextures => _currentSpriteCollection.OcclusionTextures;
 	private BaseMaterial3D.BillboardModeEnum _spriteBillboard => _currentSpriteCollection.Billboard;
 	private BaseMaterial3D.TextureFilterEnum _spriteTextureFilter => _currentSpriteCollection.TextureFilter;
-	private float SpriteAnimationSpeedScale => _currentSpriteCollection.AnimationSpeedScale;
+	private float _spriteAnimationSpeedScale => _currentSpriteCollection.AnimationSpeedScale;
 	private Vector3 _targetVelocity = Vector3.Zero;
     // ** End Additions **
     // ...
