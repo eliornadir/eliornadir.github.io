@@ -12,29 +12,29 @@ excerpt: "A poem reflecting on the pain of loss and the hope for healing through
 ---
 <div align="center">
 
-My heart in pain  
-My joy unseen  
-I pray for answers  
-To what I've been  
+My heart in pain<br />
+My joy unseen<br />
+I pray for answers<br />
+To what I've been<br />
 
-Comfort eludes  
-So begs my soul  
-Yah please guide my mind  
-To your holy goal  
+Comfort eludes<br />
+So begs my soul<br />
+Yah please guide my mind<br />
+To your holy goal<br />
 
-I miss her voice  
-Her tenor rings  
-So help me forget  
-All of these things  
+I miss her voice<br />
+Her tenor rings<br />
+So help me forget<br />
+All of these things<br />
 
-Her gorgeous smile  
-Her unique love  
-Her care for others  
-And all thereof  
+Her gorgeous smile<br />
+Her unique love<br />
+Her care for others<br />
+And all thereof<br />
 
-Release me from  
-Remembering  
-All that she is  
-And that I've been  
+Release me from<br />
+Remembering<br />
+All that she is<br />
+And that I've been<br />
 
 </div>
