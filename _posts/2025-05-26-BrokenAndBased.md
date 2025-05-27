@@ -15,7 +15,7 @@ I was watching a [YouTube video](https://www.youtube.com/watch?v=2JNk_hmdU1Y) fr
 
 I wanted to remember this every day, so I made a wallpaper to have on my phone:
 
-![](/assets/images/BrokenAndBased.png){: style="width: 500px; text-align: center; margin: 0 auto;"}
+![](/assets/images/BrokenAndBased.png){: style="width: 15em; display: block; margin: 0 auto;"}
 
 I pray that if you are reading this, you won't choose the easy route. We're all presented with difficult choices, but often the right choice is the hard one. Face the difficulty.
 
