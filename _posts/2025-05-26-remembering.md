@@ -1,5 +1,6 @@
 ---
 title: "Remembering"
+slug: "Remembering"
 categories:
     - Poetry
 tags:
