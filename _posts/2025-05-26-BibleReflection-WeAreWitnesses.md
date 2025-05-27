@@ -2,6 +2,12 @@
 title: "We Are Witnesses"
 categories:
   - BibleReflection
+tags:
+    - Faith
+    - Witness
+    - Service
+    - Law
+    - Salvation
 ---
 
 > And Joshua said to the people, "You are witnesses against yourselves that you have chosen for yourselves to serve Yahweh." And they said, "We are witnesses."
