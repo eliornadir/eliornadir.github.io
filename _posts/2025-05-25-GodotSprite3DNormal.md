@@ -1,18 +1,20 @@
 ---
 title:  "Creating a 2D Sprite in 3D with Normal Textures in Godot"
 categories:
-  - Game Development
+  - GameDev
 tags:
   - Godot
   - C#
   - 2D
   - 3D
-  - Normal Mapping
+  - NormalMapping
   - Sprites
 last_modified_at: 2025-05-25T22:14:00-05:00
 excerpt: "A guide to creating a 2D sprite in a 3D environment in Godot that supports normal textures."
 ---
 This guide will walk you through creating a 2D sprite in a 3D environment in Godot that supports [normal textures](https://en.wikipedia.org/wiki/Normal_mapping).
+
+The full code for this project can be found here: [eliornadir/sprite-in-3d-normals](https://github.com/eliornadir/sprite-in-3d-normals)
 
 >📝 Note: This guide assumes you have a basic understanding of Godot and its 3D scene system as well as general programming knowledge. The scripting will be done in C#.
 
