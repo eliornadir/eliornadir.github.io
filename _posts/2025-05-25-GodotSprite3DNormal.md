@@ -1,5 +1,5 @@
 ---
-title:  "Creating a 2D Sprite in 3D with Normal Textures in Godot"
+title:  "Godot Engine: Creating an Animated Sprite with Normal Textures in 3D"
 categories:
   - GameDev
 tags:
